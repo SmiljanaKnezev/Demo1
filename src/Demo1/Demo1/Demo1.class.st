@@ -1,3 +1,6 @@
+"
+Test comment
+"
 Class {
 	#name : #Demo1,
 	#superclass : #Object,
